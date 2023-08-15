@@ -9,6 +9,7 @@ ssh = paramiko.SSHClient()
 # Adding new host key to the local
 # HostKeys object(in case of missing)
 # AutoAddPolicy for missing host key to be set before connection setup.
+#This policy allows the client to automatically add the host key of a server to the in-memory store of known host keys, without asking for confirmation from the user.
 ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
 
 ssh.connect('localhost', port=22, username='ageorge',
