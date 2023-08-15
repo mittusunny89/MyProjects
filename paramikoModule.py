@@ -1,3 +1,5 @@
+#Program to extract files with size from a linux directory
+
 import paramiko
 
 # Create object of SSHClient and
