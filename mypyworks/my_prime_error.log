@@ -1,0 +1,18 @@
+2023-08-08 10:18:00,810 - INFO - Found a prime number: 2
+2023-08-08 10:18:00,810 - INFO - Found a prime number: 3
+2023-08-08 10:18:00,810 - INFO - Found a prime number: 5
+2023-08-08 10:18:00,810 - INFO - Found a prime number: 7
+2023-08-08 10:18:00,811 - INFO - Found a prime number: 11
+2023-08-08 10:18:00,811 - INFO - Found a prime number: 13
+2023-08-08 10:20:57,112 - WARNING - found  as prime
+2023-08-08 10:20:57,113 - INFO - Found a prime number: 2
+2023-08-08 10:20:57,113 - WARNING - found  as prime
+2023-08-08 10:20:57,113 - INFO - Found a prime number: 3
+2023-08-08 10:20:57,113 - WARNING - found  as prime
+2023-08-08 10:20:57,115 - INFO - Found a prime number: 5
+2023-08-08 10:20:57,115 - WARNING - found  as prime
+2023-08-08 10:20:57,115 - INFO - Found a prime number: 7
+2023-08-08 10:20:57,115 - WARNING - found  as prime
+2023-08-08 10:20:57,115 - INFO - Found a prime number: 11
+2023-08-08 10:20:57,115 - WARNING - found  as prime
+2023-08-08 10:20:57,115 - INFO - Found a prime number: 13

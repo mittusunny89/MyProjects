@@ -1,0 +1,10 @@
+import logging
+
+logging.basicConfig(filename="myErrorFile.log", level = logging.DEBUG, format = '%(asctime)s %(message)s')
+
+
+
+ 
+logger = logging.getLogger()
+logging.info("this is an INFO error")
+logging.warning("this a WARNING")

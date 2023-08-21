@@ -1,0 +1,18 @@
+{  
+    "laptop": {  
+        "name":       "Dell inspiron",   
+        "price":      560   
+    },  
+	"book": {  
+        "name":       "wings of fire",   
+        "price":      48
+    },
+	"chocolate": {  
+        "name":       "kit kat",   
+        "price":      12   
+    },
+	"jeans": {  
+        "name":       "levis",   
+        "price":      39  
+    }
+} 
